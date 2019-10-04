@@ -31,5 +31,5 @@ This should be in the format:
 
 ```
 calculateBMI(68, 147)
--- Your BMI is 22.2. NHS Guidelines would classify you as ideal
+-- Your BMI is 22.3. NHS Guidelines would classify you as ideal
 ```

@@ -69,7 +69,6 @@ function test_the_string_appears_with_the_expected_formatting()
     lunatest.assert_true( 
     string.match(bmi_calculator.calculateBMI(68, 147), "Your BMI is 22.3. NHS Guidelines would classify you as ideal"), 
     string.format("string not in correct format got: %s", bmi_calculator.calculateBMI(68, 147) )
-
 )
 end 
 
